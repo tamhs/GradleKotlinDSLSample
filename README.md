@@ -8,7 +8,7 @@ Gradle’s Kotlin DSL?
 
 Toàn bộ Gradle Kotlin DSL được hỗ trợ trên các IDE nhỏ hơn Groovy, nhưng Android Studio và IntelliJ IDEA hỗ trợ mọi thứ chúng tôi cần, vì vậy hầu hết các nhà phát triển Android không gặp nhiều vấn đề.)
 
-- Reason to use kotlin scripts: 
+* Reason to use kotlin scripts: 
 
 + Compile time error
 + Auto completion
@@ -17,7 +17,7 @@ Toàn bộ Gradle Kotlin DSL được hỗ trợ trên các IDE nhỏ hơn Groov
 + You have some idea of what you are doing
 + Highly extendable
 
-- Why type-safe build logic ?
+* Why type-safe build logic ?
 
 + Improved Developer experience
 + Authoring build logic
@@ -44,7 +44,11 @@ https://caster.io/lessons/gradle-dependency-management-using-kotlin-and-buildsrc
 
 Link:
 https://antonioleiva.com/dagger-android-kotlin/
+
 https://proandroiddev.com/sharing-build-logic-with-kotlin-dsl-203274f73013
+
 https://proandroiddev.com/gradle-groovy-to-kotlin-dsl-in-15-minutes-d3129aff227e
+
 https://www.youtube.com/watch?v=mAtrEPeAJSc
+
 https://infinum.com/handbook/books/android/project-structure/kotlin-gradle-dsl
